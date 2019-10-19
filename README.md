@@ -6,3 +6,5 @@ nejaky text
 
 ## zmena 
 Neco jsem tu zmenila
+
+Tuhle zmenu jsem udelal ve vetvi master.
